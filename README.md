@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilknur-nurioglu
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning HTML, CSS
+- 👀 I’m interested in frontend and backend web development
+- 🌱 I’m currently learning HTML, CSS, Java
 - 💞️ I’m looking to collaborate on frontend project
 - 📫 How to reach me ---> ilknurnurioglu@gmail.com
 
