@@ -1,4 +1,6 @@
+<p align="center">
 ![hello-there-baby-yoda](https://user-images.githubusercontent.com/97106063/159130321-a0273b45-43bb-4440-ac77-e61eb2240d27.gif)
+ </p>
 - 👋 Hi, I’m @ilknur-nurioglu
 - 👀 I’m interested in frontend and backend web development
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, GO
