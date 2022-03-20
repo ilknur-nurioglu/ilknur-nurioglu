@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/ilknursvnn" target="blank"><img src="https://img.shields.io/twitter/follow/ilknursvnn?logo=twitter&style=for-the-badge" alt="ilknursvnn" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
-
+- 👯 I’m looking to collaborate on **Front-end Projects**
 - 📫 How to reach me **ilknurnurioglu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
