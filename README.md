@@ -1,5 +1,6 @@
-
-![hello-there-baby-yoda](https://user-images.githubusercontent.com/97106063/159130321-a0273b45-43bb-4440-ac77-e61eb2240d27.gif)
+<p align="center"
+![d4tvukbt5mra37cvwklk](https://user-images.githubusercontent.com/97106063/159185301-61a66938-464f-43ec-97f9-856c43d6b1c2.gif)
+/p>
  
 <h1 align="center">Hi 👋, I'm İlknur Nurioğlu</h1>
 <h3 align="center">A passionate developer</h3>
