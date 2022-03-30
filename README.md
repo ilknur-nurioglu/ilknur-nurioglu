@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm İlknur Nurioğlu</h1>
 <h3 align="center">A passionate developer</h3>
 
-<p align="left"> <a href="https://twitter.com/ilknursvnn" target="blank"><img src="https://img.shields.io/twitter/follow/ilknursvnn?logo=twitter&style=for-the-badge" alt="ilknursvnn" /></a> </p>
+
 
 - 🌱 I’m currently learning **JavaScript**
 - 👯 I’m looking to collaborate on **Front-end Projects**
