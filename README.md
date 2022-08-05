@@ -6,8 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript**
-- 👯 I’m looking to collaborate on **Front-end Projects**
+- 🌱 I’m currently learning **C#**
 - 📫 How to reach me **ilknurnurioglu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
