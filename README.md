@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/97106063/159185301-61a66938-464f-43ec-97f9-856c43d6b1c2.gif" width="80%"/>
 
 <h1 align="center">Hi 👋, I'm İlknur Nurioğlu</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A game developer</h3>
 
 
 
